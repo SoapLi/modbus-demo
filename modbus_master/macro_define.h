@@ -1,0 +1,6 @@
+#ifndef MACRO_DEFINE_H
+#define MACRO_DEFINE_H
+
+#define TIMER_CHART_INTERVAL 20
+
+#endif // MACRO_DEFINE_H
